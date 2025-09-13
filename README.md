@@ -9,3 +9,6 @@ My side-project about building a natural language processing model for multi pur
 - **Embedding**: A technique used to represent words or phrases as dense vectors in a continuous vector space. Embeddings capture semantic relationships between words, allowing models to understand context and meaning (can limit size and can be learned)
 
 ![alt text](image.png)
+
+## Model 5 - Tribrid Embedding Model Structure
+![alt text](images/image-1.png)
