@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.h5
+*.weights.h5
+*.ckpt
+*.weights
 # Distribution / packaging
 .Python
 build/
